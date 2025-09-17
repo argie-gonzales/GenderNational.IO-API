@@ -1,6 +1,0 @@
-@Datacom___Assessment_HostAddress = http://localhost:5244
-
-GET {{Datacom___Assessment_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
